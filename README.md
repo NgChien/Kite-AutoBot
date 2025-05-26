@@ -1,5 +1,5 @@
 # Kite-AutoBot
-Complete 10 Stars And I Will Upload kiteAi Testnet Script
+Complete 10 Stars And I Will Upload kiteAi Testnet Script or get it in discord
 # GoKiteAI V2 Bot
 
 ## Giới thiệu 
