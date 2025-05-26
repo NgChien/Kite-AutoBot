@@ -2,7 +2,7 @@
 Complete 10 Stars And I Will Upload kiteAi Testnet Script
 # GoKiteAI V2 Bot
 
-## Giới thiệu
+## Giới thiệu 
 
 GoKiteAI V2 Bot là một công cụ tự động hóa các tác vụ trên nền tảng GoKite, hỗ trợ nhiều tài khoản cùng lúc, giúp người dùng tối ưu hóa việc tích điểm, làm quiz, mint badges, staking, và tương tác với agent AI. Bot được cấu hình linh hoạt qua file `config.js` mà không cần sửa code chính.
 
