@@ -1,4 +1,4 @@
-# Kita-AutoBot
+# Kite-AutoBot
 Complete 20 Stars And I Will Upload kiteAi Testnet Script
 # GoKiteAI V2 Bot
 
